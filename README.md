@@ -33,7 +33,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/heart-disease-classification.git
+   git clone https://github.com/your-username/Heart-Disease-Prediction.git
    cd heart-disease-classification
    ```
 2. **Edit the code to ensure the dataset is correctly loaded.**
